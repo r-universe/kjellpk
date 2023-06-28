@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fit.models"]
 	path = fit.models
 	url = https://github.com/cran/fit.models
-	shallow = true
-	registered = true
