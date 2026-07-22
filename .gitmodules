@@ -7,4 +7,4 @@
 	url = https://github.com/kjellpk/dbi.table
 [submodule "fit.models"]
 	path = fit.models
-	url = https://github.com/cran/fit.models
+	url = https://github.com/kjellpk/fit.models
